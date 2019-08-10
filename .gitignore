@@ -97,3 +97,5 @@ doc/*.html
 
 # Visual Studio Code
 .vscode/*
+.idea
+cmake-build-debug
